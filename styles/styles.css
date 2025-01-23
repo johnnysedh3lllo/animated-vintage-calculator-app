@@ -163,6 +163,9 @@ path:hover {
    background-color: hsl(0, 0%, 64%);
 }
 
+.padding-bottom{
+  padding-block-end: 4rem;
+}
 
 .error-screen {
   background-color: var(--clr-accent-200);
