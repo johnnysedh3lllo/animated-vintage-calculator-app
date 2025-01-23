@@ -195,10 +195,6 @@ path:hover {
     position: absolute;
     bottom: 0;
   }
-
-  .padding-bottom {
-  padding-block-end: 2rem;
-  }
 }
 
 /*Desktop screen*/
@@ -243,9 +239,5 @@ path:hover {
   .result {
     grid-row: 1/2;
     grid-column: 4/6;
-  }
-
-  .padding-bottom {
-  padding-block-end: 2rem;
   }
 }
