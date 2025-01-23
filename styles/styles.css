@@ -163,7 +163,7 @@ path:hover {
    background-color: hsl(0, 0%, 64%);
 }
 
-.padding-bottom{
+.padding-bottom {
   padding-block-end: 2rem;
 }
 
@@ -194,6 +194,10 @@ path:hover {
     border-radius: 10px 10px 0 0;
     position: absolute;
     bottom: 0;
+  }
+
+  .padding-bottom {
+  padding-block-end: 2rem;
   }
 }
 
@@ -239,5 +243,9 @@ path:hover {
   .result {
     grid-row: 1/2;
     grid-column: 4/6;
+  }
+
+  .padding-bottom {
+  padding-block-end: 2rem;
   }
 }
